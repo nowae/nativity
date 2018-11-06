@@ -135,44 +135,44 @@ $EndComp
 $Comp
 L nowae-connector:CONN_5X1 P?
 U 1 1 5BF6AE5A
-P 9650 1800
-F 0 "P?" H 9727 1858 60  0000 L CNN
-F 1 "SWD" H 9727 1752 60  0000 L CNN
-F 2 "" H 10025 1800 60  0001 C CNN
-F 3 "" H 10025 1800 60  0001 C CNN
-F 4 "-" H 9650 1450 60  0001 C CNN "Manufacturer"
-F 5 "-" H 9650 1350 60  0001 C CNN "Part Number"
-F 6 "-" H 9650 1250 60  0001 C CNN "Distributor"
-F 7 "-" H 9650 1150 60  0001 C CNN "Distributor Code"
-F 8 "-" H 9650 1050 60  0001 C CNN "Price €"
-F 9 "-" H 9650 950 60  0001 C CNN "Distributor2"
-F 10 "-" H 9650 850 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 9650 750 60  0001 C CNN "Distributor3"
-F 12 "-" H 9650 650 60  0001 C CNN "Distributor3 Code"
-	1    9650 1800
+P 9000 1800
+F 0 "P?" H 9077 1858 60  0000 L CNN
+F 1 "SWD" H 9077 1752 60  0000 L CNN
+F 2 "" H 9375 1800 60  0001 C CNN
+F 3 "" H 9375 1800 60  0001 C CNN
+F 4 "-" H 9000 1450 60  0001 C CNN "Manufacturer"
+F 5 "-" H 9000 1350 60  0001 C CNN "Part Number"
+F 6 "-" H 9000 1250 60  0001 C CNN "Distributor"
+F 7 "-" H 9000 1150 60  0001 C CNN "Distributor Code"
+F 8 "-" H 9000 1050 60  0001 C CNN "Price €"
+F 9 "-" H 9000 950 60  0001 C CNN "Distributor2"
+F 10 "-" H 9000 850 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 9000 750 60  0001 C CNN "Distributor3"
+F 12 "-" H 9000 650 60  0001 C CNN "Distributor3 Code"
+	1    9000 1800
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	9400 1900 8600 1900
+	8750 1900 7950 1900
 Wire Wire Line
-	9400 1800 9250 1800
+	8750 1800 8600 1800
 $Comp
 L power:GND #PWR?
 U 1 1 5BF6B0ED
-P 9250 1800
-F 0 "#PWR?" H 9250 1800 30  0001 C CNN
-F 1 "GND" H 9250 1800 30  0001 C CNN
-F 2 "" H 9250 1800 60  0000 C CNN
-F 3 "" H 9250 1800 60  0000 C CNN
-	1    9250 1800
+P 8600 1800
+F 0 "#PWR?" H 8600 1800 30  0001 C CNN
+F 1 "GND" H 8600 1800 30  0001 C CNN
+F 2 "" H 8600 1800 60  0000 C CNN
+F 3 "" H 8600 1800 60  0000 C CNN
+	1    8600 1800
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	9400 1600 9250 1600
+	8750 1600 8600 1600
 Wire Wire Line
-	9250 1600 9250 1500
+	8600 1600 8600 1500
 Wire Wire Line
-	9400 1700 8600 1700
+	8750 1700 7950 1700
 Wire Wire Line
 	5750 3500 5750 4300
 Wire Wire Line
@@ -181,9 +181,9 @@ Text Label 5750 4250 1    50   ~ 0
 SWCLK
 Text Label 6050 4250 1    50   ~ 0
 SWDIO
-Text Label 8650 1900 0    50   ~ 0
+Text Label 8000 1900 0    50   ~ 0
 SWDIO
-Text Label 8650 1700 0    50   ~ 0
+Text Label 8000 1700 0    50   ~ 0
 SWCLK
 $Comp
 L nowae-led:YELLOW DL?
@@ -550,20 +550,20 @@ Entry Wire Line
 Entry Wire Line
 	7750 2400 7850 2300
 Wire Wire Line
-	8600 2000 9400 2000
+	7950 2000 8750 2000
 Entry Wire Line
-	8500 1600 8600 1700
+	7850 1600 7950 1700
 Entry Wire Line
-	8500 1800 8600 1900
+	7850 1800 7950 1900
 Entry Wire Line
-	8500 1900 8600 2000
+	7850 1900 7950 2000
 Entry Wire Line
 	7750 2700 7850 2600
 Wire Wire Line
 	7750 2700 6950 2700
 Text Label 7700 2700 2    50   ~ 0
 RESET
-Text Label 8650 2000 0    50   ~ 0
+Text Label 8000 2000 0    50   ~ 0
 RESET
 Entry Wire Line
 	5950 4400 6050 4300
@@ -904,14 +904,6 @@ Wire Wire Line
 	4250 6050 4250 6000
 Wire Wire Line
 	4250 6050 4250 6100
-Wire Bus Line
-	4150 750  7850 750 
-Wire Bus Line
-	7850 750  7850 2700
-Wire Bus Line
-	4150 4400 7300 4400
-Wire Bus Line
-	4150 750  4150 4400
 Connection ~ 4250 6050
 $Comp
 L power:+3.3V #PWR?
@@ -924,4 +916,68 @@ F 3 "" H 4250 6100 60  0000 C CNN
 	1    4250 6100
 	-1   0    0    1   
 $EndComp
+$Comp
+L power:+3.3V #PWR?
+U 1 1 5BE2501D
+P 8600 1500
+F 0 "#PWR?" H 8600 1425 30  0001 C CNN
+F 1 "+3.3V" H 8600 1600 30  0000 C CNN
+F 2 "" H 8600 1500 60  0000 C CNN
+F 3 "" H 8600 1500 60  0000 C CNN
+	1    8600 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L nowae-connector:CONN_3X1 P?
+U 1 1 5BE27E8C
+P 9000 2600
+F 0 "P?" H 9150 2650 60  0000 C CNN
+F 1 "DEBUG" H 9250 2550 60  0000 C CNN
+F 2 "" H 9375 2600 60  0001 C CNN
+F 3 "" H 9375 2600 60  0001 C CNN
+F 4 "-" H 9000 2250 60  0001 C CNN "Manufacturer"
+F 5 "-" H 9000 2150 60  0001 C CNN "Part Number"
+F 6 "-" H 9000 2050 60  0001 C CNN "Distributor"
+F 7 "-" H 9000 1950 60  0001 C CNN "Distributor Code"
+F 8 "-" H 9000 1850 60  0001 C CNN "Price €"
+F 9 "-" H 9000 1750 60  0001 C CNN "Distributor2"
+F 10 "-" H 9000 1650 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 9000 1550 60  0001 C CNN "Distributor3"
+F 12 "-" H 9000 1450 60  0001 C CNN "Distributor3 Code"
+	1    9000 2600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8750 2500 7950 2500
+Wire Wire Line
+	8750 2600 7950 2600
+Wire Wire Line
+	8750 2700 8600 2700
+$Comp
+L power:GND #PWR?
+U 1 1 5BE30389
+P 8600 2700
+F 0 "#PWR?" H 8600 2700 30  0001 C CNN
+F 1 "GND" H 8600 2700 30  0001 C CNN
+F 2 "" H 8600 2700 60  0000 C CNN
+F 3 "" H 8600 2700 60  0000 C CNN
+	1    8600 2700
+	0    1    1    0   
+$EndComp
+Text Label 8000 2500 0    50   ~ 0
+DEBUG_TX
+Text Label 8000 2600 0    50   ~ 0
+DEBUG_RX
+Entry Wire Line
+	7850 2400 7950 2500
+Entry Wire Line
+	7850 2500 7950 2600
+Wire Bus Line
+	4150 750  7850 750 
+Wire Bus Line
+	4150 4400 7300 4400
+Wire Bus Line
+	7850 750  7850 2700
+Wire Bus Line
+	4150 750  4150 4400
 $EndSCHEMATC

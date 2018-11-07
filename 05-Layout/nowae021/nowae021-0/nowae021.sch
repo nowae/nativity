@@ -188,331 +188,312 @@ SWCLK
 $Comp
 L nowae-led:YELLOW DL?
 U 1 1 5BDB6A1B
-P 3200 2550
-F 0 "DL?" H 3200 2650 50  0000 C CNN
-F 1 "YELLOW" H 3200 2450 50  0000 C CNN
-F 2 "" H 3200 2550 60  0001 C CNN
-F 3 "Yellow" H 3200 2550 60  0001 C CNN
-F 4 "-" H 3200 2200 60  0001 C CNN "Manufacturer"
-F 5 "-" H 3200 2100 60  0001 C CNN "Part Number"
-F 6 "-" H 3200 2000 60  0001 C CNN "Distributor"
-F 7 "-" H 3200 1900 60  0001 C CNN "Distributor Code"
-F 8 "-" H 3200 1800 60  0001 C CNN "Price €"
-F 9 "-" H 3200 1700 60  0001 C CNN "Distributor2"
-F 10 "-" H 3200 1600 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 3200 1500 60  0001 C CNN "Distributor3"
-F 12 "-" H 3200 1400 60  0001 C CNN "Distributor3 Code"
-	1    3200 2550
+P 2000 2350
+F 0 "DL?" H 2000 2450 50  0000 C CNN
+F 1 "YELLOW" H 2000 2250 50  0000 C CNN
+F 2 "" H 2000 2350 60  0001 C CNN
+F 3 "Yellow" H 2000 2350 60  0001 C CNN
+F 4 "-" H 2000 2000 60  0001 C CNN "Manufacturer"
+F 5 "-" H 2000 1900 60  0001 C CNN "Part Number"
+F 6 "-" H 2000 1800 60  0001 C CNN "Distributor"
+F 7 "-" H 2000 1700 60  0001 C CNN "Distributor Code"
+F 8 "-" H 2000 1600 60  0001 C CNN "Price €"
+F 9 "-" H 2000 1500 60  0001 C CNN "Distributor2"
+F 10 "-" H 2000 1400 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 2000 1300 60  0001 C CNN "Distributor3"
+F 12 "-" H 2000 1200 60  0001 C CNN "Distributor3 Code"
+	1    2000 2350
 	1    0    0    -1  
 $EndComp
 $Comp
 L nowae-led:RED DL?
 U 1 1 5BDB6C4A
-P 3200 2250
-F 0 "DL?" H 3200 2350 50  0000 C CNN
-F 1 "RED" H 3200 2150 50  0000 C CNN
-F 2 "" H 3200 2250 60  0001 C CNN
-F 3 "Red" H 3200 2250 60  0001 C CNN
-F 4 "-" H 3200 1900 60  0001 C CNN "Manufacturer"
-F 5 "-" H 3200 1800 60  0001 C CNN "Part Number"
-F 6 "-" H 3200 1700 60  0001 C CNN "Distributor"
-F 7 "-" H 3200 1600 60  0001 C CNN "Distributor Code"
-F 8 "-" H 3200 1500 60  0001 C CNN "Price €"
-F 9 "-" H 3200 1400 60  0001 C CNN "Distributor2"
-F 10 "-" H 3200 1300 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 3200 1200 60  0001 C CNN "Distributor3"
-F 12 "-" H 3200 1100 60  0001 C CNN "Distributor3 Code"
-	1    3200 2250
+P 2000 1550
+F 0 "DL?" H 2000 1650 50  0000 C CNN
+F 1 "RED" H 2000 1450 50  0000 C CNN
+F 2 "" H 2000 1550 60  0001 C CNN
+F 3 "Red" H 2000 1550 60  0001 C CNN
+F 4 "-" H 2000 1200 60  0001 C CNN "Manufacturer"
+F 5 "-" H 2000 1100 60  0001 C CNN "Part Number"
+F 6 "-" H 2000 1000 60  0001 C CNN "Distributor"
+F 7 "-" H 2000 900 60  0001 C CNN "Distributor Code"
+F 8 "-" H 2000 800 60  0001 C CNN "Price €"
+F 9 "-" H 2000 700 60  0001 C CNN "Distributor2"
+F 10 "-" H 2000 600 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 2000 500 60  0001 C CNN "Distributor3"
+F 12 "-" H 2000 400 60  0001 C CNN "Distributor3 Code"
+	1    2000 1550
 	1    0    0    -1  
 $EndComp
 $Comp
 L nowae-led:YELLOW DL?
 U 1 1 5BDB6CAF
-P 3200 1950
-F 0 "DL?" H 3200 2050 50  0000 C CNN
-F 1 "YELLOW" H 3200 1850 50  0000 C CNN
-F 2 "" H 3200 1950 60  0001 C CNN
-F 3 "Yellow" H 3200 1950 60  0001 C CNN
-F 4 "-" H 3200 1600 60  0001 C CNN "Manufacturer"
-F 5 "-" H 3200 1500 60  0001 C CNN "Part Number"
-F 6 "-" H 3200 1400 60  0001 C CNN "Distributor"
-F 7 "-" H 3200 1300 60  0001 C CNN "Distributor Code"
-F 8 "-" H 3200 1200 60  0001 C CNN "Price €"
-F 9 "-" H 3200 1100 60  0001 C CNN "Distributor2"
-F 10 "-" H 3200 1000 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 3200 900 60  0001 C CNN "Distributor3"
-F 12 "-" H 3200 800 60  0001 C CNN "Distributor3 Code"
-	1    3200 1950
+P 2000 750
+F 0 "DL?" H 2000 850 50  0000 C CNN
+F 1 "YELLOW" H 2000 650 50  0000 C CNN
+F 2 "" H 2000 750 60  0001 C CNN
+F 3 "Yellow" H 2000 750 60  0001 C CNN
+F 4 "-" H 2000 400 60  0001 C CNN "Manufacturer"
+F 5 "-" H 2000 300 60  0001 C CNN "Part Number"
+F 6 "-" H 2000 200 60  0001 C CNN "Distributor"
+F 7 "-" H 2000 100 60  0001 C CNN "Distributor Code"
+F 8 "-" H 2000 0   60  0001 C CNN "Price €"
+F 9 "-" H 2000 -100 60  0001 C CNN "Distributor2"
+F 10 "-" H 2000 -200 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 2000 -300 60  0001 C CNN "Distributor3"
+F 12 "-" H 2000 -400 60  0001 C CNN "Distributor3 Code"
+	1    2000 750 
 	1    0    0    -1  
 $EndComp
 $Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB6E43
-P 2650 2550
-F 0 "R?" V 2730 2550 50  0000 C CNN
-F 1 "220" V 2650 2550 50  0000 C CNN
-F 2 "" V 2580 2550 30  0001 C CNN
-F 3 "" H 2650 2550 30  0001 C CNN
-F 4 "-" H 2650 2200 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2650 2100 60  0001 C CNN "Part Number"
-F 6 "-" H 2650 2000 60  0001 C CNN "Distributor"
-F 7 "-" H 2650 1900 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2650 1800 60  0001 C CNN "Price €"
-F 9 "-" H 2650 1700 60  0001 C CNN "Distributor2"
-F 10 "-" H 2650 1600 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2650 1500 60  0001 C CNN "Distributor3"
-F 12 "-" H 2650 1400 60  0001 C CNN "Distributor3 Code"
-	1    2650 2550
+P 1450 2350
+F 0 "R?" V 1530 2350 50  0000 C CNN
+F 1 "1k" V 1450 2350 50  0000 C CNN
+F 2 "" V 1380 2350 30  0001 C CNN
+F 3 "" H 1450 2350 30  0001 C CNN
+F 4 "-" H 1450 2000 60  0001 C CNN "Manufacturer"
+F 5 "-" H 1450 1900 60  0001 C CNN "Part Number"
+F 6 "-" H 1450 1800 60  0001 C CNN "Distributor"
+F 7 "-" H 1450 1700 60  0001 C CNN "Distributor Code"
+F 8 "-" H 1450 1600 60  0001 C CNN "Price €"
+F 9 "-" H 1450 1500 60  0001 C CNN "Distributor2"
+F 10 "-" H 1450 1400 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 1450 1300 60  0001 C CNN "Distributor3"
+F 12 "-" H 1450 1200 60  0001 C CNN "Distributor3 Code"
+	1    1450 2350
 	0    -1   -1   0   
 $EndComp
 $Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB6F2E
-P 2650 2250
-F 0 "R?" V 2730 2250 50  0000 C CNN
-F 1 "220" V 2650 2250 50  0000 C CNN
-F 2 "" V 2580 2250 30  0001 C CNN
-F 3 "" H 2650 2250 30  0001 C CNN
-F 4 "-" H 2650 1900 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2650 1800 60  0001 C CNN "Part Number"
-F 6 "-" H 2650 1700 60  0001 C CNN "Distributor"
-F 7 "-" H 2650 1600 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2650 1500 60  0001 C CNN "Price €"
-F 9 "-" H 2650 1400 60  0001 C CNN "Distributor2"
-F 10 "-" H 2650 1300 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2650 1200 60  0001 C CNN "Distributor3"
-F 12 "-" H 2650 1100 60  0001 C CNN "Distributor3 Code"
-	1    2650 2250
+P 1450 1550
+F 0 "R?" V 1530 1550 50  0000 C CNN
+F 1 "1k" V 1450 1550 50  0000 C CNN
+F 2 "" V 1380 1550 30  0001 C CNN
+F 3 "" H 1450 1550 30  0001 C CNN
+F 4 "-" H 1450 1200 60  0001 C CNN "Manufacturer"
+F 5 "-" H 1450 1100 60  0001 C CNN "Part Number"
+F 6 "-" H 1450 1000 60  0001 C CNN "Distributor"
+F 7 "-" H 1450 900 60  0001 C CNN "Distributor Code"
+F 8 "-" H 1450 800 60  0001 C CNN "Price €"
+F 9 "-" H 1450 700 60  0001 C CNN "Distributor2"
+F 10 "-" H 1450 600 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 1450 500 60  0001 C CNN "Distributor3"
+F 12 "-" H 1450 400 60  0001 C CNN "Distributor3 Code"
+	1    1450 1550
 	0    -1   -1   0   
 $EndComp
 $Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB6F68
-P 2650 1950
-F 0 "R?" V 2730 1950 50  0000 C CNN
-F 1 "220" V 2650 1950 50  0000 C CNN
-F 2 "" V 2580 1950 30  0001 C CNN
-F 3 "" H 2650 1950 30  0001 C CNN
-F 4 "-" H 2650 1600 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2650 1500 60  0001 C CNN "Part Number"
-F 6 "-" H 2650 1400 60  0001 C CNN "Distributor"
-F 7 "-" H 2650 1300 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2650 1200 60  0001 C CNN "Price €"
-F 9 "-" H 2650 1100 60  0001 C CNN "Distributor2"
-F 10 "-" H 2650 1000 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2650 900 60  0001 C CNN "Distributor3"
-F 12 "-" H 2650 800 60  0001 C CNN "Distributor3 Code"
-	1    2650 1950
+P 1450 750
+F 0 "R?" V 1530 750 50  0000 C CNN
+F 1 "1k" V 1450 750 50  0000 C CNN
+F 2 "" V 1380 750 30  0001 C CNN
+F 3 "" H 1450 750 30  0001 C CNN
+F 4 "-" H 1450 400 60  0001 C CNN "Manufacturer"
+F 5 "-" H 1450 300 60  0001 C CNN "Part Number"
+F 6 "-" H 1450 200 60  0001 C CNN "Distributor"
+F 7 "-" H 1450 100 60  0001 C CNN "Distributor Code"
+F 8 "-" H 1450 0   60  0001 C CNN "Price €"
+F 9 "-" H 1450 -100 60  0001 C CNN "Distributor2"
+F 10 "-" H 1450 -200 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 1450 -300 60  0001 C CNN "Distributor3"
+F 12 "-" H 1450 -400 60  0001 C CNN "Distributor3 Code"
+	1    1450 750 
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	2900 2550 3000 2550
+	1700 2350 1800 2350
 Wire Wire Line
-	2900 2250 3000 2250
+	1700 1550 1800 1550
 Wire Wire Line
-	2900 1950 3000 1950
+	1700 750  1800 750 
 $Comp
 L nowae-led:RED DL?
 U 1 1 5BDB7D7F
-P 3200 2850
-F 0 "DL?" H 3200 2950 50  0000 C CNN
-F 1 "RED" H 3200 2750 50  0000 C CNN
-F 2 "" H 3200 2850 60  0001 C CNN
-F 3 "Red" H 3200 2850 60  0001 C CNN
-F 4 "-" H 3200 2500 60  0001 C CNN "Manufacturer"
-F 5 "-" H 3200 2400 60  0001 C CNN "Part Number"
-F 6 "-" H 3200 2300 60  0001 C CNN "Distributor"
-F 7 "-" H 3200 2200 60  0001 C CNN "Distributor Code"
-F 8 "-" H 3200 2100 60  0001 C CNN "Price €"
-F 9 "-" H 3200 2000 60  0001 C CNN "Distributor2"
-F 10 "-" H 3200 1900 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 3200 1800 60  0001 C CNN "Distributor3"
-F 12 "-" H 3200 1700 60  0001 C CNN "Distributor3 Code"
-	1    3200 2850
+P 2000 3150
+F 0 "DL?" H 2000 3250 50  0000 C CNN
+F 1 "RED" H 2000 3050 50  0000 C CNN
+F 2 "" H 2000 3150 60  0001 C CNN
+F 3 "Red" H 2000 3150 60  0001 C CNN
+F 4 "-" H 2000 2800 60  0001 C CNN "Manufacturer"
+F 5 "-" H 2000 2700 60  0001 C CNN "Part Number"
+F 6 "-" H 2000 2600 60  0001 C CNN "Distributor"
+F 7 "-" H 2000 2500 60  0001 C CNN "Distributor Code"
+F 8 "-" H 2000 2400 60  0001 C CNN "Price €"
+F 9 "-" H 2000 2300 60  0001 C CNN "Distributor2"
+F 10 "-" H 2000 2200 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 2000 2100 60  0001 C CNN "Distributor3"
+F 12 "-" H 2000 2000 60  0001 C CNN "Distributor3 Code"
+	1    2000 3150
 	1    0    0    -1  
 $EndComp
 $Comp
 L nowae-led:YELLOW DL?
 U 1 1 5BDB7D8E
-P 3200 3150
-F 0 "DL?" H 3200 3250 50  0000 C CNN
-F 1 "YELLOW" H 3200 3050 50  0000 C CNN
-F 2 "" H 3200 3150 60  0001 C CNN
-F 3 "Yellow" H 3200 3150 60  0001 C CNN
-F 4 "-" H 3200 2800 60  0001 C CNN "Manufacturer"
-F 5 "-" H 3200 2700 60  0001 C CNN "Part Number"
-F 6 "-" H 3200 2600 60  0001 C CNN "Distributor"
-F 7 "-" H 3200 2500 60  0001 C CNN "Distributor Code"
-F 8 "-" H 3200 2400 60  0001 C CNN "Price €"
-F 9 "-" H 3200 2300 60  0001 C CNN "Distributor2"
-F 10 "-" H 3200 2200 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 3200 2100 60  0001 C CNN "Distributor3"
-F 12 "-" H 3200 2000 60  0001 C CNN "Distributor3 Code"
-	1    3200 3150
+P 2000 3950
+F 0 "DL?" H 2000 4050 50  0000 C CNN
+F 1 "YELLOW" H 2000 3850 50  0000 C CNN
+F 2 "" H 2000 3950 60  0001 C CNN
+F 3 "Yellow" H 2000 3950 60  0001 C CNN
+F 4 "-" H 2000 3600 60  0001 C CNN "Manufacturer"
+F 5 "-" H 2000 3500 60  0001 C CNN "Part Number"
+F 6 "-" H 2000 3400 60  0001 C CNN "Distributor"
+F 7 "-" H 2000 3300 60  0001 C CNN "Distributor Code"
+F 8 "-" H 2000 3200 60  0001 C CNN "Price €"
+F 9 "-" H 2000 3100 60  0001 C CNN "Distributor2"
+F 10 "-" H 2000 3000 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 2000 2900 60  0001 C CNN "Distributor3"
+F 12 "-" H 2000 2800 60  0001 C CNN "Distributor3 Code"
+	1    2000 3950
 	1    0    0    -1  
 $EndComp
 $Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB7D9D
-P 2650 3450
-F 0 "R?" V 2730 3450 50  0000 C CNN
-F 1 "220" V 2650 3450 50  0000 C CNN
-F 2 "" V 2580 3450 30  0001 C CNN
-F 3 "" H 2650 3450 30  0001 C CNN
-F 4 "-" H 2650 3100 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2650 3000 60  0001 C CNN "Part Number"
-F 6 "-" H 2650 2900 60  0001 C CNN "Distributor"
-F 7 "-" H 2650 2800 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2650 2700 60  0001 C CNN "Price €"
-F 9 "-" H 2650 2600 60  0001 C CNN "Distributor2"
-F 10 "-" H 2650 2500 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2650 2400 60  0001 C CNN "Distributor3"
-F 12 "-" H 2650 2300 60  0001 C CNN "Distributor3 Code"
-	1    2650 3450
+P 1450 4850
+F 0 "R?" V 1530 4850 50  0000 C CNN
+F 1 "1k" V 1450 4850 50  0000 C CNN
+F 2 "" V 1380 4850 30  0001 C CNN
+F 3 "" H 1450 4850 30  0001 C CNN
+F 4 "-" H 1450 4500 60  0001 C CNN "Manufacturer"
+F 5 "-" H 1450 4400 60  0001 C CNN "Part Number"
+F 6 "-" H 1450 4300 60  0001 C CNN "Distributor"
+F 7 "-" H 1450 4200 60  0001 C CNN "Distributor Code"
+F 8 "-" H 1450 4100 60  0001 C CNN "Price €"
+F 9 "-" H 1450 4000 60  0001 C CNN "Distributor2"
+F 10 "-" H 1450 3900 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 1450 3800 60  0001 C CNN "Distributor3"
+F 12 "-" H 1450 3700 60  0001 C CNN "Distributor3 Code"
+	1    1450 4850
 	0    -1   -1   0   
 $EndComp
 $Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB7DAC
-P 2650 3150
-F 0 "R?" V 2730 3150 50  0000 C CNN
-F 1 "220" V 2650 3150 50  0000 C CNN
-F 2 "" V 2580 3150 30  0001 C CNN
-F 3 "" H 2650 3150 30  0001 C CNN
-F 4 "-" H 2650 2800 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2650 2700 60  0001 C CNN "Part Number"
-F 6 "-" H 2650 2600 60  0001 C CNN "Distributor"
-F 7 "-" H 2650 2500 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2650 2400 60  0001 C CNN "Price €"
-F 9 "-" H 2650 2300 60  0001 C CNN "Distributor2"
-F 10 "-" H 2650 2200 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2650 2100 60  0001 C CNN "Distributor3"
-F 12 "-" H 2650 2000 60  0001 C CNN "Distributor3 Code"
-	1    2650 3150
+P 1450 3950
+F 0 "R?" V 1530 3950 50  0000 C CNN
+F 1 "1k" V 1450 3950 50  0000 C CNN
+F 2 "" V 1380 3950 30  0001 C CNN
+F 3 "" H 1450 3950 30  0001 C CNN
+F 4 "-" H 1450 3600 60  0001 C CNN "Manufacturer"
+F 5 "-" H 1450 3500 60  0001 C CNN "Part Number"
+F 6 "-" H 1450 3400 60  0001 C CNN "Distributor"
+F 7 "-" H 1450 3300 60  0001 C CNN "Distributor Code"
+F 8 "-" H 1450 3200 60  0001 C CNN "Price €"
+F 9 "-" H 1450 3100 60  0001 C CNN "Distributor2"
+F 10 "-" H 1450 3000 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 1450 2900 60  0001 C CNN "Distributor3"
+F 12 "-" H 1450 2800 60  0001 C CNN "Distributor3 Code"
+	1    1450 3950
 	0    -1   -1   0   
 $EndComp
 $Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB7DBB
-P 2650 2850
-F 0 "R?" V 2730 2850 50  0000 C CNN
-F 1 "220" V 2650 2850 50  0000 C CNN
-F 2 "" V 2580 2850 30  0001 C CNN
-F 3 "" H 2650 2850 30  0001 C CNN
-F 4 "-" H 2650 2500 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2650 2400 60  0001 C CNN "Part Number"
-F 6 "-" H 2650 2300 60  0001 C CNN "Distributor"
-F 7 "-" H 2650 2200 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2650 2100 60  0001 C CNN "Price €"
-F 9 "-" H 2650 2000 60  0001 C CNN "Distributor2"
-F 10 "-" H 2650 1900 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2650 1800 60  0001 C CNN "Distributor3"
-F 12 "-" H 2650 1700 60  0001 C CNN "Distributor3 Code"
-	1    2650 2850
+P 1450 3150
+F 0 "R?" V 1530 3150 50  0000 C CNN
+F 1 "1k" V 1450 3150 50  0000 C CNN
+F 2 "" V 1380 3150 30  0001 C CNN
+F 3 "" H 1450 3150 30  0001 C CNN
+F 4 "-" H 1450 2800 60  0001 C CNN "Manufacturer"
+F 5 "-" H 1450 2700 60  0001 C CNN "Part Number"
+F 6 "-" H 1450 2600 60  0001 C CNN "Distributor"
+F 7 "-" H 1450 2500 60  0001 C CNN "Distributor Code"
+F 8 "-" H 1450 2400 60  0001 C CNN "Price €"
+F 9 "-" H 1450 2300 60  0001 C CNN "Distributor2"
+F 10 "-" H 1450 2200 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 1450 2100 60  0001 C CNN "Distributor3"
+F 12 "-" H 1450 2000 60  0001 C CNN "Distributor3 Code"
+	1    1450 3150
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	2900 3450 3000 3450
+	1700 4850 1800 4850
 Wire Wire Line
-	2900 3150 3000 3150
+	1700 3950 1800 3950
 Wire Wire Line
-	2900 2850 3000 2850
+	1700 3150 1800 3150
 $Comp
 L nowae-led:RED DL?
 U 1 1 5BDB82B8
-P 3200 3450
-F 0 "DL?" H 3200 3550 50  0000 C CNN
-F 1 "RED" H 3200 3350 50  0000 C CNN
-F 2 "" H 3200 3450 60  0001 C CNN
-F 3 "Red" H 3200 3450 60  0001 C CNN
-F 4 "-" H 3200 3100 60  0001 C CNN "Manufacturer"
-F 5 "-" H 3200 3000 60  0001 C CNN "Part Number"
-F 6 "-" H 3200 2900 60  0001 C CNN "Distributor"
-F 7 "-" H 3200 2800 60  0001 C CNN "Distributor Code"
-F 8 "-" H 3200 2700 60  0001 C CNN "Price €"
-F 9 "-" H 3200 2600 60  0001 C CNN "Distributor2"
-F 10 "-" H 3200 2500 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 3200 2400 60  0001 C CNN "Distributor3"
-F 12 "-" H 3200 2300 60  0001 C CNN "Distributor3 Code"
-	1    3200 3450
+P 2000 4850
+F 0 "DL?" H 2000 4950 50  0000 C CNN
+F 1 "RED" H 2000 4750 50  0000 C CNN
+F 2 "" H 2000 4850 60  0001 C CNN
+F 3 "Red" H 2000 4850 60  0001 C CNN
+F 4 "-" H 2000 4500 60  0001 C CNN "Manufacturer"
+F 5 "-" H 2000 4400 60  0001 C CNN "Part Number"
+F 6 "-" H 2000 4300 60  0001 C CNN "Distributor"
+F 7 "-" H 2000 4200 60  0001 C CNN "Distributor Code"
+F 8 "-" H 2000 4100 60  0001 C CNN "Price €"
+F 9 "-" H 2000 4000 60  0001 C CNN "Distributor2"
+F 10 "-" H 2000 3900 60  0001 C CNN "Distributor2 Code"
+F 11 "-" H 2000 3800 60  0001 C CNN "Distributor3"
+F 12 "-" H 2000 3700 60  0001 C CNN "Distributor3 Code"
+	1    2000 4850
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3400 1950 4050 1950
+	3000 1100 4050 1100
 Wire Wire Line
-	2250 1850 2250 1950
+	1050 650  1050 750 
 Wire Wire Line
-	2250 3150 2400 3150
+	1050 3950 1200 3950
 Wire Wire Line
-	2400 2850 2250 2850
-Connection ~ 2250 2850
+	1200 3150 1050 3150
+Connection ~ 1050 3150
 Wire Wire Line
-	2250 2850 2250 3150
+	1050 3150 1050 3950
 Wire Wire Line
-	2400 2550 2250 2550
-Connection ~ 2250 2550
+	1200 2350 1050 2350
+Connection ~ 1050 2350
 Wire Wire Line
-	2250 2550 2250 2850
+	1050 2350 1050 3150
 Wire Wire Line
-	2400 2250 2250 2250
-Connection ~ 2250 2250
+	1200 1550 1050 1550
+Connection ~ 1050 1550
 Wire Wire Line
-	2250 2250 2250 2550
+	1050 1550 1050 2350
 Wire Wire Line
-	2400 1950 2250 1950
-Connection ~ 2250 1950
+	1200 750  1050 750 
+Connection ~ 1050 750 
 Wire Wire Line
-	2250 1950 2250 2250
+	1050 750  1050 1550
 Wire Wire Line
-	2250 3150 2250 3450
+	1050 3950 1050 4850
 Wire Wire Line
-	2250 3450 2400 3450
-Connection ~ 2250 3150
-Wire Wire Line
-	3400 2250 4050 2250
-Wire Wire Line
-	3400 2550 4050 2550
-Wire Wire Line
-	3400 2850 4050 2850
-Wire Wire Line
-	3400 3150 4050 3150
-Text Label 4000 1950 2    50   ~ 0
+	1050 4850 1200 4850
+Connection ~ 1050 3950
+Text Label 4000 1100 2    50   ~ 0
 FIRE_LED1
-Text Label 4000 2250 2    50   ~ 0
+Text Label 4000 1200 2    50   ~ 0
 FIRE_LED2
-Text Label 4000 2550 2    50   ~ 0
+Text Label 4000 1300 2    50   ~ 0
 FIRE_LED3
-Text Label 4000 2850 2    50   ~ 0
+Text Label 4000 1400 2    50   ~ 0
 FIRE_LED4
-Text Label 4000 3150 2    50   ~ 0
+Text Label 4000 1500 2    50   ~ 0
 FIRE_LED5
 Wire Wire Line
-	3400 3450 4050 3450
-Text Label 4000 3450 2    50   ~ 0
+	3450 1600 4050 1600
+Text Label 4000 1600 2    50   ~ 0
 FIRE_LED6
 Entry Wire Line
-	4050 3450 4150 3350
+	4050 1600 4150 1500
 Entry Wire Line
-	4050 3150 4150 3050
+	4050 1500 4150 1400
 Entry Wire Line
-	4050 2850 4150 2750
+	4050 1400 4150 1300
 Entry Wire Line
-	4050 2550 4150 2450
+	4050 1300 4150 1200
 Entry Wire Line
-	4050 2250 4150 2150
+	4050 1200 4150 1100
 Entry Wire Line
-	4050 1950 4150 1850
-$Comp
-L power:+3.3V #PWR?
-U 1 1 5BDBE8D4
-P 2250 1850
-F 0 "#PWR?" H 2250 1775 30  0001 C CNN
-F 1 "+3.3V" H 2250 1960 30  0000 C CNN
-F 2 "" H 2250 1850 60  0000 C CNN
-F 3 "" H 2250 1850 60  0000 C CNN
-	1    2250 1850
-	1    0    0    -1  
-$EndComp
+	4050 1100 4150 1000
 Wire Wire Line
 	5950 1650 5950 850 
 Entry Wire Line
@@ -972,6 +953,233 @@ Entry Wire Line
 	7850 2400 7950 2500
 Entry Wire Line
 	7850 2500 7950 2600
+$Comp
+L nowae-transistor:PDTC123EU Q?
+U 1 1 5BE8D28F
+P 2700 5200
+F 0 "Q?" H 2928 5246 50  0000 L CNN
+F 1 "PDTC123EU" H 2928 5155 50  0000 L CNN
+F 2 "SOT:SOT323-3" H 2700 4175 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf" H 2700 4775 50  0001 C CNN
+F 4 "Nexperia Semiconductor" H 2700 4675 60  0001 C CNN "Manufacturer"
+F 5 "PTDC123EU" H 2700 4575 60  0001 C CNN "Part Number"
+F 6 "Farnell Italia S.r.l." H 2700 4475 60  0001 C CNN "Distributor"
+F 7 "8737134" H 2700 4375 60  0001 C CNN "Distributor Code"
+F 8 "0.171" H 2700 4275 60  0001 C CNN "Price €"
+F 9 "RS Components S.p.a." H 2700 4075 50  0001 C CNN "Distributor2"
+F 10 "518-2882" H 2700 3975 50  0001 C CNN "Distributor2 Code"
+	1    2700 5200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 4900 2600 4850
+Wire Wire Line
+	2600 4850 2200 4850
+$Comp
+L nowae-transistor:PDTC123EU Q?
+U 1 1 5BE96178
+P 2700 4300
+F 0 "Q?" H 2928 4346 50  0000 L CNN
+F 1 "PDTC123EU" H 2928 4255 50  0000 L CNN
+F 2 "SOT:SOT323-3" H 2700 3275 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf" H 2700 3875 50  0001 C CNN
+F 4 "Nexperia Semiconductor" H 2700 3775 60  0001 C CNN "Manufacturer"
+F 5 "PTDC123EU" H 2700 3675 60  0001 C CNN "Part Number"
+F 6 "Farnell Italia S.r.l." H 2700 3575 60  0001 C CNN "Distributor"
+F 7 "8737134" H 2700 3475 60  0001 C CNN "Distributor Code"
+F 8 "0.171" H 2700 3375 60  0001 C CNN "Price €"
+F 9 "RS Components S.p.a." H 2700 3175 50  0001 C CNN "Distributor2"
+F 10 "518-2882" H 2700 3075 50  0001 C CNN "Distributor2 Code"
+	1    2700 4300
+	-1   0    0    -1  
+$EndComp
+$Comp
+L nowae-transistor:PDTC123EU Q?
+U 1 1 5BE961F6
+P 2700 3500
+F 0 "Q?" H 2928 3546 50  0000 L CNN
+F 1 "PDTC123EU" H 2928 3455 50  0000 L CNN
+F 2 "SOT:SOT323-3" H 2700 2475 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf" H 2700 3075 50  0001 C CNN
+F 4 "Nexperia Semiconductor" H 2700 2975 60  0001 C CNN "Manufacturer"
+F 5 "PTDC123EU" H 2700 2875 60  0001 C CNN "Part Number"
+F 6 "Farnell Italia S.r.l." H 2700 2775 60  0001 C CNN "Distributor"
+F 7 "8737134" H 2700 2675 60  0001 C CNN "Distributor Code"
+F 8 "0.171" H 2700 2575 60  0001 C CNN "Price €"
+F 9 "RS Components S.p.a." H 2700 2375 50  0001 C CNN "Distributor2"
+F 10 "518-2882" H 2700 2275 50  0001 C CNN "Distributor2 Code"
+	1    2700 3500
+	-1   0    0    -1  
+$EndComp
+$Comp
+L nowae-transistor:PDTC123EU Q?
+U 1 1 5BE96272
+P 2700 2700
+F 0 "Q?" H 2928 2746 50  0000 L CNN
+F 1 "PDTC123EU" H 2928 2655 50  0000 L CNN
+F 2 "SOT:SOT323-3" H 2700 1675 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf" H 2700 2275 50  0001 C CNN
+F 4 "Nexperia Semiconductor" H 2700 2175 60  0001 C CNN "Manufacturer"
+F 5 "PTDC123EU" H 2700 2075 60  0001 C CNN "Part Number"
+F 6 "Farnell Italia S.r.l." H 2700 1975 60  0001 C CNN "Distributor"
+F 7 "8737134" H 2700 1875 60  0001 C CNN "Distributor Code"
+F 8 "0.171" H 2700 1775 60  0001 C CNN "Price €"
+F 9 "RS Components S.p.a." H 2700 1575 50  0001 C CNN "Distributor2"
+F 10 "518-2882" H 2700 1475 50  0001 C CNN "Distributor2 Code"
+	1    2700 2700
+	-1   0    0    -1  
+$EndComp
+$Comp
+L nowae-transistor:PDTC123EU Q?
+U 1 1 5BE9CA73
+P 2700 1900
+F 0 "Q?" H 2928 1946 50  0000 L CNN
+F 1 "PDTC123EU" H 2928 1855 50  0000 L CNN
+F 2 "SOT:SOT323-3" H 2700 875 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf" H 2700 1475 50  0001 C CNN
+F 4 "Nexperia Semiconductor" H 2700 1375 60  0001 C CNN "Manufacturer"
+F 5 "PTDC123EU" H 2700 1275 60  0001 C CNN "Part Number"
+F 6 "Farnell Italia S.r.l." H 2700 1175 60  0001 C CNN "Distributor"
+F 7 "8737134" H 2700 1075 60  0001 C CNN "Distributor Code"
+F 8 "0.171" H 2700 975 60  0001 C CNN "Price €"
+F 9 "RS Components S.p.a." H 2700 775 50  0001 C CNN "Distributor2"
+F 10 "518-2882" H 2700 675 50  0001 C CNN "Distributor2 Code"
+	1    2700 1900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L nowae-transistor:PDTC123EU Q?
+U 1 1 5BE9CAFF
+P 2700 1100
+F 0 "Q?" H 2928 1146 50  0000 L CNN
+F 1 "PDTC123EU" H 2928 1055 50  0000 L CNN
+F 2 "SOT:SOT323-3" H 2700 75  50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/PDTC123E_SERIES.pdf" H 2700 675 50  0001 C CNN
+F 4 "Nexperia Semiconductor" H 2700 575 60  0001 C CNN "Manufacturer"
+F 5 "PTDC123EU" H 2700 475 60  0001 C CNN "Part Number"
+F 6 "Farnell Italia S.r.l." H 2700 375 60  0001 C CNN "Distributor"
+F 7 "8737134" H 2700 275 60  0001 C CNN "Distributor Code"
+F 8 "0.171" H 2700 175 60  0001 C CNN "Price €"
+F 9 "RS Components S.p.a." H 2700 -25 50  0001 C CNN "Distributor2"
+F 10 "518-2882" H 2700 -125 50  0001 C CNN "Distributor2 Code"
+	1    2700 1100
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3050 1200 3050 1900
+Wire Wire Line
+	3050 1900 3000 1900
+Wire Wire Line
+	3050 1200 4050 1200
+Wire Wire Line
+	3150 1300 3150 2700
+Wire Wire Line
+	3150 2700 3000 2700
+Wire Wire Line
+	3150 1300 4050 1300
+Wire Wire Line
+	3250 1400 3250 3500
+Wire Wire Line
+	3250 3500 3000 3500
+Wire Wire Line
+	3250 1400 4050 1400
+Wire Wire Line
+	3000 4300 3350 4300
+Wire Wire Line
+	3350 4300 3350 1500
+Wire Wire Line
+	3350 1500 4050 1500
+Wire Wire Line
+	3450 1600 3450 5200
+Wire Wire Line
+	3450 5200 3000 5200
+Wire Wire Line
+	2200 3950 2600 3950
+Wire Wire Line
+	2600 3950 2600 4000
+$Comp
+L power:+VIN #PWR?
+U 1 1 5BEE9258
+P 1050 650
+F 0 "#PWR?" H 1050 575 30  0001 C CNN
+F 1 "+VIN" H 1050 750 30  0000 C CNN
+F 2 "" H 1050 650 60  0000 C CNN
+F 3 "" H 1050 650 60  0000 C CNN
+	1    1050 650 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 750  2600 750 
+Wire Wire Line
+	2600 750  2600 800 
+Wire Wire Line
+	2200 1550 2600 1550
+Wire Wire Line
+	2600 1550 2600 1600
+Wire Wire Line
+	2200 2350 2600 2350
+Wire Wire Line
+	2600 2350 2600 2400
+Wire Wire Line
+	2200 3150 2600 3150
+Wire Wire Line
+	2600 3150 2600 3200
+Wire Wire Line
+	2600 1400 2600 1450
+$Comp
+L power:GND #PWR?
+U 1 1 5BEFE931
+P 2600 1450
+F 0 "#PWR?" H 2600 1450 30  0001 C CNN
+F 1 "GND" H 2600 1450 30  0001 C CNN
+F 2 "" H 2600 1450 60  0000 C CNN
+F 3 "" H 2600 1450 60  0000 C CNN
+	1    2600 1450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5BEFE9A2
+P 2600 2250
+F 0 "#PWR?" H 2600 2250 30  0001 C CNN
+F 1 "GND" H 2600 2250 30  0001 C CNN
+F 2 "" H 2600 2250 60  0000 C CNN
+F 3 "" H 2600 2250 60  0000 C CNN
+	1    2600 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5BEFEA0A
+P 2600 3050
+F 0 "#PWR?" H 2600 3050 30  0001 C CNN
+F 1 "GND" H 2600 3050 30  0001 C CNN
+F 2 "" H 2600 3050 60  0000 C CNN
+F 3 "" H 2600 3050 60  0000 C CNN
+	1    2600 3050
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 3050 2600 3000
+Wire Wire Line
+	2600 2250 2600 2200
+$Comp
+L power:GND #PWR?
+U 1 1 5BF07C7B
+P 2600 3850
+F 0 "#PWR?" H 2600 3850 30  0001 C CNN
+F 1 "GND" H 2600 3850 30  0001 C CNN
+F 2 "" H 2600 3850 60  0000 C CNN
+F 3 "" H 2600 3850 60  0000 C CNN
+	1    2600 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2600 3800 2600 3850
+Wire Wire Line
+	2600 4600 2600 4650
+Wire Wire Line
+	2600 5500 2600 5550
 Wire Bus Line
 	4150 750  7850 750 
 Wire Bus Line
@@ -980,4 +1188,26 @@ Wire Bus Line
 	7850 750  7850 2700
 Wire Bus Line
 	4150 750  4150 4400
+$Comp
+L power:GND #PWR?
+U 1 1 5BF16066
+P 2600 4650
+F 0 "#PWR?" H 2600 4650 30  0001 C CNN
+F 1 "GND" H 2600 4650 30  0001 C CNN
+F 2 "" H 2600 4650 60  0000 C CNN
+F 3 "" H 2600 4650 60  0000 C CNN
+	1    2600 4650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5BF160AF
+P 2600 5550
+F 0 "#PWR?" H 2600 5550 30  0001 C CNN
+F 1 "GND" H 2600 5550 30  0001 C CNN
+F 2 "" H 2600 5550 60  0000 C CNN
+F 3 "" H 2600 5550 60  0000 C CNN
+	1    2600 5550
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

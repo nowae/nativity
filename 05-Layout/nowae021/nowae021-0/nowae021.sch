@@ -186,66 +186,6 @@ SWDIO
 Text Label 8300 1450 0    50   ~ 0
 SWCLK
 $Comp
-L nowae-led:YELLOW DL?
-U 1 1 5BDB6A1B
-P 2300 2550
-F 0 "DL?" H 2300 2650 50  0000 C CNN
-F 1 "YELLOW" H 2300 2450 50  0000 C CNN
-F 2 "" H 2300 2550 60  0001 C CNN
-F 3 "Yellow" H 2300 2550 60  0001 C CNN
-F 4 "-" H 2300 2200 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2300 2100 60  0001 C CNN "Part Number"
-F 6 "-" H 2300 2000 60  0001 C CNN "Distributor"
-F 7 "-" H 2300 1900 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2300 1800 60  0001 C CNN "Price €"
-F 9 "-" H 2300 1700 60  0001 C CNN "Distributor2"
-F 10 "-" H 2300 1600 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2300 1500 60  0001 C CNN "Distributor3"
-F 12 "-" H 2300 1400 60  0001 C CNN "Distributor3 Code"
-	1    2300 2550
-	1    0    0    -1  
-$EndComp
-$Comp
-L nowae-led:RED DL?
-U 1 1 5BDB6C4A
-P 2300 1750
-F 0 "DL?" H 2300 1850 50  0000 C CNN
-F 1 "RED" H 2300 1650 50  0000 C CNN
-F 2 "" H 2300 1750 60  0001 C CNN
-F 3 "Red" H 2300 1750 60  0001 C CNN
-F 4 "-" H 2300 1400 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2300 1300 60  0001 C CNN "Part Number"
-F 6 "-" H 2300 1200 60  0001 C CNN "Distributor"
-F 7 "-" H 2300 1100 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2300 1000 60  0001 C CNN "Price €"
-F 9 "-" H 2300 900 60  0001 C CNN "Distributor2"
-F 10 "-" H 2300 800 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2300 700 60  0001 C CNN "Distributor3"
-F 12 "-" H 2300 600 60  0001 C CNN "Distributor3 Code"
-	1    2300 1750
-	1    0    0    -1  
-$EndComp
-$Comp
-L nowae-led:YELLOW DL?
-U 1 1 5BDB6CAF
-P 2300 950
-F 0 "DL?" H 2300 1050 50  0000 C CNN
-F 1 "YELLOW" H 2300 850 50  0000 C CNN
-F 2 "" H 2300 950 60  0001 C CNN
-F 3 "Yellow" H 2300 950 60  0001 C CNN
-F 4 "-" H 2300 600 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2300 500 60  0001 C CNN "Part Number"
-F 6 "-" H 2300 400 60  0001 C CNN "Distributor"
-F 7 "-" H 2300 300 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2300 200 60  0001 C CNN "Price €"
-F 9 "-" H 2300 100 60  0001 C CNN "Distributor2"
-F 10 "-" H 2300 0   60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2300 -100 60  0001 C CNN "Distributor3"
-F 12 "-" H 2300 -200 60  0001 C CNN "Distributor3 Code"
-	1    2300 950 
-	1    0    0    -1  
-$EndComp
-$Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB6E43
 P 1750 2550
@@ -312,46 +252,6 @@ Wire Wire Line
 Wire Wire Line
 	2000 950  2100 950 
 $Comp
-L nowae-led:RED DL?
-U 1 1 5BDB7D7F
-P 2300 3350
-F 0 "DL?" H 2300 3450 50  0000 C CNN
-F 1 "RED" H 2300 3250 50  0000 C CNN
-F 2 "" H 2300 3350 60  0001 C CNN
-F 3 "Red" H 2300 3350 60  0001 C CNN
-F 4 "-" H 2300 3000 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2300 2900 60  0001 C CNN "Part Number"
-F 6 "-" H 2300 2800 60  0001 C CNN "Distributor"
-F 7 "-" H 2300 2700 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2300 2600 60  0001 C CNN "Price €"
-F 9 "-" H 2300 2500 60  0001 C CNN "Distributor2"
-F 10 "-" H 2300 2400 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2300 2300 60  0001 C CNN "Distributor3"
-F 12 "-" H 2300 2200 60  0001 C CNN "Distributor3 Code"
-	1    2300 3350
-	1    0    0    -1  
-$EndComp
-$Comp
-L nowae-led:YELLOW DL?
-U 1 1 5BDB7D8E
-P 2300 4150
-F 0 "DL?" H 2300 4250 50  0000 C CNN
-F 1 "YELLOW" H 2300 4050 50  0000 C CNN
-F 2 "" H 2300 4150 60  0001 C CNN
-F 3 "Yellow" H 2300 4150 60  0001 C CNN
-F 4 "-" H 2300 3800 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2300 3700 60  0001 C CNN "Part Number"
-F 6 "-" H 2300 3600 60  0001 C CNN "Distributor"
-F 7 "-" H 2300 3500 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2300 3400 60  0001 C CNN "Price €"
-F 9 "-" H 2300 3300 60  0001 C CNN "Distributor2"
-F 10 "-" H 2300 3200 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2300 3100 60  0001 C CNN "Distributor3"
-F 12 "-" H 2300 3000 60  0001 C CNN "Distributor3 Code"
-	1    2300 4150
-	1    0    0    -1  
-$EndComp
-$Comp
 L nowae-resistor:RESISTOR R?
 U 1 1 5BDB7D9D
 P 1750 5050
@@ -417,26 +317,6 @@ Wire Wire Line
 	2000 4150 2100 4150
 Wire Wire Line
 	2000 3350 2100 3350
-$Comp
-L nowae-led:RED DL?
-U 1 1 5BDB82B8
-P 2300 5050
-F 0 "DL?" H 2300 5150 50  0000 C CNN
-F 1 "RED" H 2300 4950 50  0000 C CNN
-F 2 "" H 2300 5050 60  0001 C CNN
-F 3 "Red" H 2300 5050 60  0001 C CNN
-F 4 "-" H 2300 4700 60  0001 C CNN "Manufacturer"
-F 5 "-" H 2300 4600 60  0001 C CNN "Part Number"
-F 6 "-" H 2300 4500 60  0001 C CNN "Distributor"
-F 7 "-" H 2300 4400 60  0001 C CNN "Distributor Code"
-F 8 "-" H 2300 4300 60  0001 C CNN "Price €"
-F 9 "-" H 2300 4200 60  0001 C CNN "Distributor2"
-F 10 "-" H 2300 4100 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 2300 4000 60  0001 C CNN "Distributor3"
-F 12 "-" H 2300 3900 60  0001 C CNN "Distributor3 Code"
-	1    2300 5050
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	3300 1300 4350 1300
 Wire Wire Line
@@ -1525,6 +1405,30 @@ F 3 "" H 10000 3300 60  0000 C CNN
 $EndComp
 Wire Wire Line
 	7250 2700 8050 2700
+Entry Wire Line
+	8150 2600 8250 2700
+Text Label 8000 2700 2    50   ~ 0
+MCU_STATUS
+$Comp
+L nowae-led:RED-WE-150141RS73100 DL?
+U 1 1 5BE3F467
+P 2300 1750
+F 0 "DL?" H 2300 1850 50  0000 C CNN
+F 1 "RED" H 2300 1650 50  0000 C CNN
+F 2 "LEDs:LED-WURTH-WL_SMTW_3528" H 2300 500 60  0001 C CNN
+F 3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" H 2300 1550 60  0001 C CNN
+F 4 "Wurth Elektronik GmbH" H 2300 1400 60  0001 C CNN "Manufacturer"
+F 5 "150141RS73100" H 2300 1300 60  0001 C CNN "Part Number"
+F 6 "Wurth Elektronik S.r.l." H 2300 1200 60  0001 C CNN "Distributor"
+F 7 "150141RS73100" H 2300 1100 60  0001 C CNN "Distributor Code"
+F 8 "0.180" H 2300 1000 60  0001 C CNN "Price €"
+F 9 "Farnell Italia S.r.l." H 2300 900 60  0001 C CNN "Distributor2"
+F 10 "2322107" H 2300 800 60  0001 C CNN "Distributor2 Code"
+F 11 "Mouser Electronic Inc" H 2300 700 60  0001 C CNN "Distributor3"
+F 12 "710-150141RS73100" H 2300 600 60  0001 C CNN "Distributor3 Code"
+	1    2300 1750
+	1    0    0    -1  
+$EndComp
 Wire Bus Line
 	4450 950  8150 950 
 Wire Bus Line
@@ -1533,8 +1437,104 @@ Wire Bus Line
 	8150 950  8150 4200
 Wire Bus Line
 	4450 950  4450 4600
-Entry Wire Line
-	8150 2600 8250 2700
-Text Label 8000 2700 2    50   ~ 0
-MCU_STATUS
+$Comp
+L nowae-led:YELLOW-WE-150141YS73100 DL?
+U 1 1 5BE46D25
+P 2300 950
+F 0 "DL?" H 2300 1050 50  0000 C CNN
+F 1 "YELLOW" H 2300 850 50  0000 C CNN
+F 2 "LEDs:LED-WURTH-WL_SMTW_3528" H 2300 -300 60  0001 C CNN
+F 3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" H 2300 750 60  0001 C CNN
+F 4 "Wurth Elektronik GmbH" H 2300 600 60  0001 C CNN "Manufacturer"
+F 5 "150141YS73100" H 2300 500 60  0001 C CNN "Part Number"
+F 6 "Wurth Elektronik S.r.l." H 2300 400 60  0001 C CNN "Distributor"
+F 7 "150141YS73100" H 2300 300 60  0001 C CNN "Distributor Code"
+F 8 "0.180" H 2300 200 60  0001 C CNN "Price €"
+F 9 "Farnell Italia S.r.l." H 2300 100 60  0001 C CNN "Distributor2"
+F 10 "2322111" H 2300 0   60  0001 C CNN "Distributor2 Code"
+F 11 "Mouser Electronic Inc" H 2300 -100 60  0001 C CNN "Distributor3"
+F 12 "710-150141YS73100" H 2300 -200 60  0001 C CNN "Distributor3 Code"
+	1    2300 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L nowae-led:YELLOW-WE-150141YS73100 DL?
+U 1 1 5BE470C7
+P 2300 2550
+F 0 "DL?" H 2300 2650 50  0000 C CNN
+F 1 "YELLOW" H 2300 2450 50  0000 C CNN
+F 2 "LEDs:LED-WURTH-WL_SMTW_3528" H 2300 1300 60  0001 C CNN
+F 3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" H 2300 2350 60  0001 C CNN
+F 4 "Wurth Elektronik GmbH" H 2300 2200 60  0001 C CNN "Manufacturer"
+F 5 "150141YS73100" H 2300 2100 60  0001 C CNN "Part Number"
+F 6 "Wurth Elektronik S.r.l." H 2300 2000 60  0001 C CNN "Distributor"
+F 7 "150141YS73100" H 2300 1900 60  0001 C CNN "Distributor Code"
+F 8 "0.180" H 2300 1800 60  0001 C CNN "Price €"
+F 9 "Farnell Italia S.r.l." H 2300 1700 60  0001 C CNN "Distributor2"
+F 10 "2322111" H 2300 1600 60  0001 C CNN "Distributor2 Code"
+F 11 "Mouser Electronic Inc" H 2300 1500 60  0001 C CNN "Distributor3"
+F 12 "710-150141YS73100" H 2300 1400 60  0001 C CNN "Distributor3 Code"
+	1    2300 2550
+	1    0    0    -1  
+$EndComp
+$Comp
+L nowae-led:YELLOW-WE-150141YS73100 DL?
+U 1 1 5BE473E1
+P 2300 4150
+F 0 "DL?" H 2300 4250 50  0000 C CNN
+F 1 "YELLOW" H 2300 4050 50  0000 C CNN
+F 2 "LEDs:LED-WURTH-WL_SMTW_3528" H 2300 2900 60  0001 C CNN
+F 3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" H 2300 3950 60  0001 C CNN
+F 4 "Wurth Elektronik GmbH" H 2300 3800 60  0001 C CNN "Manufacturer"
+F 5 "150141YS73100" H 2300 3700 60  0001 C CNN "Part Number"
+F 6 "Wurth Elektronik S.r.l." H 2300 3600 60  0001 C CNN "Distributor"
+F 7 "150141YS73100" H 2300 3500 60  0001 C CNN "Distributor Code"
+F 8 "0.180" H 2300 3400 60  0001 C CNN "Price €"
+F 9 "Farnell Italia S.r.l." H 2300 3300 60  0001 C CNN "Distributor2"
+F 10 "2322111" H 2300 3200 60  0001 C CNN "Distributor2 Code"
+F 11 "Mouser Electronic Inc" H 2300 3100 60  0001 C CNN "Distributor3"
+F 12 "710-150141YS73100" H 2300 3000 60  0001 C CNN "Distributor3 Code"
+	1    2300 4150
+	1    0    0    -1  
+$EndComp
+$Comp
+L nowae-led:AMBER-WE-150141AS73100 DL?
+U 1 1 5BE476DC
+P 2300 3350
+F 0 "DL?" H 2300 3450 50  0000 C CNN
+F 1 "AMBER" H 2300 3250 50  0000 C CNN
+F 2 "LEDs:LED-WURTH-WL_SMTW_3528" H 2300 2100 60  0001 C CNN
+F 3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" H 2300 3150 60  0001 C CNN
+F 4 "Wurth Elektronik GmbH" H 2300 3000 60  0001 C CNN "Manufacturer"
+F 5 "150141AS73100" H 2300 2900 60  0001 C CNN "Part Number"
+F 6 "Wurth Elektronik S.r.l." H 2300 2800 60  0001 C CNN "Distributor"
+F 7 "150141AS73100" H 2300 2700 60  0001 C CNN "Distributor Code"
+F 8 "0.170" H 2300 2600 60  0001 C CNN "Price €"
+F 9 "Farnell Italia S.r.l." H 2300 2500 60  0001 C CNN "Distributor2"
+F 10 "2322104" H 2300 2400 60  0001 C CNN "Distributor2 Code"
+F 11 "Mouser Electronic Inc" H 2300 2300 60  0001 C CNN "Distributor3"
+F 12 "710-150141AS73100" H 2300 2200 60  0001 C CNN "Distributor3 Code"
+	1    2300 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L nowae-led:AMBER-WE-150141AS73100 DL?
+U 1 1 5BE4784B
+P 2300 5050
+F 0 "DL?" H 2300 5150 50  0000 C CNN
+F 1 "AMBER" H 2300 4950 50  0000 C CNN
+F 2 "LEDs:LED-WURTH-WL_SMTW_3528" H 2300 3800 60  0001 C CNN
+F 3 "https://katalog.we-online.com/led/datasheet/150141RS73100.pdf" H 2300 4850 60  0001 C CNN
+F 4 "Wurth Elektronik GmbH" H 2300 4700 60  0001 C CNN "Manufacturer"
+F 5 "150141AS73100" H 2300 4600 60  0001 C CNN "Part Number"
+F 6 "Wurth Elektronik S.r.l." H 2300 4500 60  0001 C CNN "Distributor"
+F 7 "150141AS73100" H 2300 4400 60  0001 C CNN "Distributor Code"
+F 8 "0.170" H 2300 4300 60  0001 C CNN "Price €"
+F 9 "Farnell Italia S.r.l." H 2300 4200 60  0001 C CNN "Distributor2"
+F 10 "2322104" H 2300 4100 60  0001 C CNN "Distributor2 Code"
+F 11 "Mouser Electronic Inc" H 2300 4000 60  0001 C CNN "Distributor3"
+F 12 "710-150141AS73100" H 2300 3900 60  0001 C CNN "Distributor3 Code"
+	1    2300 5050
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

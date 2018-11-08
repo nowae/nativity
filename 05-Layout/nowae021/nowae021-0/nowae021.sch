@@ -378,7 +378,7 @@ Wire Wire Line
 	6250 1850 6250 1050
 Entry Wire Line
 	6150 950  6250 1050
-Text Label 6650 1100 3    50   ~ 0
+Text Label 6150 1100 3    50   ~ 0
 FIRE_LED4
 Wire Wire Line
 	6150 1850 6150 1050
@@ -386,7 +386,7 @@ Wire Wire Line
 	6650 1850 6650 1050
 Text Label 6250 1100 3    50   ~ 0
 FIRE_LED5
-Text Label 6150 1100 3    50   ~ 0
+Text Label 6650 1100 3    50   ~ 0
 FIRE_LED6
 Entry Wire Line
 	6050 950  6150 1050

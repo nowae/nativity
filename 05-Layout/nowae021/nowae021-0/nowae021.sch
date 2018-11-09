@@ -576,25 +576,11 @@ F 12 "-" H 4000 4750 60  0001 C CNN "Distributor3 Code"
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	4250 5850 5150 5850
-Wire Wire Line
-	5150 5850 5150 5650
-Wire Wire Line
 	5150 5650 5700 5650
 Connection ~ 5700 5650
 Wire Wire Line
-	4250 5950 5150 5950
-Wire Wire Line
-	5150 5950 5150 6150
-Wire Wire Line
 	5150 6150 5700 6150
 Connection ~ 5700 6150
-Wire Wire Line
-	4650 5750 4650 4700
-Wire Wire Line
-	4250 6050 4450 6050
-Wire Wire Line
-	4750 6050 4750 4700
 Text Label 4650 4750 3    50   ~ 0
 NTV_COMM_SDA
 Text Label 4750 4750 3    50   ~ 0
@@ -664,13 +650,7 @@ F 12 "-" H 8350 4750 60  0001 C CNN "Distributor3 Code"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	8100 5750 7700 5750
-Wire Wire Line
-	7700 5750 7700 4700
-Wire Wire Line
-	7600 4700 7600 6050
-Wire Wire Line
-	7600 6050 8100 6050
+	7600 4700 7600 5950
 Text Label 7600 4750 3    50   ~ 0
 NTV_COMM_SCL
 Text Label 7700 4750 3    50   ~ 0
@@ -682,29 +662,29 @@ Entry Wire Line
 $Comp
 L power:+VIN #PWR017
 U 1 1 5BE4B48B
-P 8000 5850
-F 0 "#PWR017" H 8000 5775 30  0001 C CNN
-F 1 "+VIN" H 8000 5950 30  0000 C CNN
-F 2 "" H 8000 5850 60  0000 C CNN
-F 3 "" H 8000 5850 60  0000 C CNN
-	1    8000 5850
+P 8000 5750
+F 0 "#PWR017" H 8000 5675 30  0001 C CNN
+F 1 "+VIN" H 8000 5850 30  0000 C CNN
+F 2 "" H 8000 5750 60  0000 C CNN
+F 3 "" H 8000 5750 60  0000 C CNN
+	1    8000 5750
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR018
 U 1 1 5BE4B504
-P 8000 5950
-F 0 "#PWR018" H 8000 5950 30  0001 C CNN
-F 1 "GND" H 8000 5950 30  0001 C CNN
-F 2 "" H 8000 5950 60  0000 C CNN
-F 3 "" H 8000 5950 60  0000 C CNN
-	1    8000 5950
+P 8000 6050
+F 0 "#PWR018" H 8000 6050 30  0001 C CNN
+F 1 "GND" H 8000 6050 30  0001 C CNN
+F 2 "" H 8000 6050 60  0000 C CNN
+F 3 "" H 8000 6050 60  0000 C CNN
+	1    8000 6050
 	0    1    -1   0   
 $EndComp
 Wire Wire Line
-	8000 5850 8100 5850
+	8000 5750 8100 5750
 Wire Wire Line
-	8100 5950 8000 5950
+	8100 6050 8000 6050
 $Comp
 L nowae-resistor:RESISTOR R7
 U 1 1 5BE54692
@@ -745,18 +725,6 @@ F 12 "-" H 4450 4250 60  0001 C CNN "Distributor3 Code"
 	1    4450 5400
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	4350 5650 4350 5750
-Wire Wire Line
-	4250 5750 4350 5750
-Connection ~ 4350 5750
-Wire Wire Line
-	4350 5750 4650 5750
-Wire Wire Line
-	4450 5650 4450 6050
-Connection ~ 4450 6050
-Wire Wire Line
-	4450 6050 4750 6050
 Wire Wire Line
 	4450 5150 4450 5100
 Wire Wire Line
@@ -1529,6 +1497,38 @@ F 12 "710-150141AS73100" H 2300 3900 60  0001 C CNN "Distributor3 Code"
 	1    2300 5050
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	5150 6050 5150 6150
+Wire Wire Line
+	4250 6050 5150 6050
+Wire Wire Line
+	5150 5750 5150 5650
+Wire Wire Line
+	4250 5750 5150 5750
+Wire Wire Line
+	4350 5650 4350 5850
+Wire Wire Line
+	4350 5850 4250 5850
+Wire Wire Line
+	4250 5950 4450 5950
+Wire Wire Line
+	4450 5950 4450 5650
+Wire Wire Line
+	4350 5850 4650 5850
+Wire Wire Line
+	4650 5850 4650 4700
+Connection ~ 4350 5850
+Wire Wire Line
+	4450 5950 4750 5950
+Wire Wire Line
+	4750 5950 4750 4700
+Connection ~ 4450 5950
+Wire Wire Line
+	7700 5850 8100 5850
+Wire Wire Line
+	7700 4700 7700 5850
+Wire Wire Line
+	7600 5950 8100 5950
 Wire Bus Line
 	4450 950  8150 950 
 Wire Bus Line

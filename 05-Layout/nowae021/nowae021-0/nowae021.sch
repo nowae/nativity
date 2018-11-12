@@ -457,18 +457,6 @@ Text Label 4600 2400 0    50   ~ 0
 NTV_COMM_SDA
 Text Label 4600 2500 0    50   ~ 0
 NTV_COMM_SCL
-Entry Wire Line
-	4450 2500 4550 2600
-Entry Wire Line
-	4450 2600 4550 2700
-Wire Wire Line
-	4550 2600 5350 2600
-Wire Wire Line
-	4550 2700 5350 2700
-Text Label 4600 2600 0    50   ~ 0
-DEBUG_TX
-Text Label 4600 2700 0    50   ~ 0
-DEBUG_RX
 $Comp
 L nowae-regulator:TPS70933DBV U2
 U 1 1 5BE1B84A
@@ -756,51 +744,6 @@ F 3 "" H 8900 750 60  0000 C CNN
 	1    8900 750 
 	1    0    0    -1  
 $EndComp
-$Comp
-L nowae-connector:CONN_3X1 P4
-U 1 1 5BE27E8C
-P 9300 2700
-F 0 "P4" H 9450 2750 60  0000 C CNN
-F 1 "DEBUG" H 9550 2650 60  0000 C CNN
-F 2 "" H 9675 2700 60  0001 C CNN
-F 3 "" H 9675 2700 60  0001 C CNN
-F 4 "-" H 9300 2350 60  0001 C CNN "Manufacturer"
-F 5 "-" H 9300 2250 60  0001 C CNN "Part Number"
-F 6 "-" H 9300 2150 60  0001 C CNN "Distributor"
-F 7 "-" H 9300 2050 60  0001 C CNN "Distributor Code"
-F 8 "-" H 9300 1950 60  0001 C CNN "Price €"
-F 9 "-" H 9300 1850 60  0001 C CNN "Distributor2"
-F 10 "-" H 9300 1750 60  0001 C CNN "Distributor2 Code"
-F 11 "-" H 9300 1650 60  0001 C CNN "Distributor3"
-F 12 "-" H 9300 1550 60  0001 C CNN "Distributor3 Code"
-	1    9300 2700
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	9050 2600 8250 2600
-Wire Wire Line
-	9050 2700 8250 2700
-Wire Wire Line
-	9050 2800 8900 2800
-$Comp
-L power:GND #PWR022
-U 1 1 5BE30389
-P 8900 2800
-F 0 "#PWR022" H 8900 2800 30  0001 C CNN
-F 1 "GND" H 8900 2800 30  0001 C CNN
-F 2 "" H 8900 2800 60  0000 C CNN
-F 3 "" H 8900 2800 60  0000 C CNN
-	1    8900 2800
-	0    1    1    0   
-$EndComp
-Text Label 8300 2600 0    50   ~ 0
-DEBUG_TX
-Text Label 8300 2700 0    50   ~ 0
-DEBUG_RX
-Entry Wire Line
-	8150 2500 8250 2600
-Entry Wire Line
-	8050 2700 8150 2600
 $Comp
 L nowae-transistor:PDTC123EU Q6
 U 1 1 5BE8D28F
@@ -1140,7 +1083,7 @@ Wire Wire Line
 	6350 1850 6350 1050
 Entry Wire Line
 	6250 950  6350 1050
-Text Label 6350 1100 3    50   ~ 0
+Text Label 6450 1100 3    50   ~ 0
 ADDR_PROG
 NoConn ~ 5350 2800
 NoConn ~ 5350 2900
@@ -1153,7 +1096,6 @@ NoConn ~ 6150 3700
 NoConn ~ 5950 3700
 NoConn ~ 5950 1850
 NoConn ~ 6050 1850
-NoConn ~ 6450 1850
 NoConn ~ 6550 1850
 $Comp
 L nowae-capacitor:CAPACITOR C3
@@ -1371,11 +1313,7 @@ F 3 "" H 10000 3300 60  0000 C CNN
 	1    10000 3300
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	7250 2700 8050 2700
-Entry Wire Line
-	8150 2600 8250 2700
-Text Label 8000 2700 2    50   ~ 0
+Text Label 6350 1100 3    50   ~ 0
 MCU_STATUS
 $Comp
 L nowae-led:RED-WE-150141RS73100 DL2
@@ -1529,12 +1467,19 @@ Wire Wire Line
 	7700 4700 7700 5850
 Wire Wire Line
 	7600 5950 8100 5950
+NoConn ~ 7250 2700
+Wire Wire Line
+	6450 1850 6450 1050
+Entry Wire Line
+	6350 950  6450 1050
+NoConn ~ 5350 2600
+NoConn ~ 5350 2700
 Wire Bus Line
 	4450 950  8150 950 
+Wire Bus Line
+	4450 950  4450 4600
 Wire Bus Line
 	4450 4600 7600 4600
 Wire Bus Line
 	8150 950  8150 4200
-Wire Bus Line
-	4450 950  4450 4600
 $EndSCHEMATC

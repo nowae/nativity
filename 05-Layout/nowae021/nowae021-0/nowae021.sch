@@ -7,12 +7,12 @@ encoding utf-8
 Sheet 1 1
 Title "Nativity Project - Fireplace Node"
 Date ""
-Rev "0-D"
+Rev "0"
 Comp ""
 Comment1 "M. Giammarini"
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment2 "N. Orlandini"
+Comment3 "N. Orlandini"
+Comment4 "2018-11-14"
 $EndDescr
 $Comp
 L nowae-microcontroller:MKL15Z128VFM4 U1

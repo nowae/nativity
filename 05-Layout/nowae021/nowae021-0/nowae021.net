@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/warcomeb/Projects/NOWAE/NOWAE021/05-Layout/nowae021/nowae021-0/nowae021.sch)
-    (date "Martedì 20 Novembre 2018 14:18:52")
+    (date "Martedì 20 Novembre 2018 22:22:08")
     (tool "Eeschema (5.0.0-3-g5ebb6b6)")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -77,7 +77,7 @@
       (tstamp 5BF69B1A))
     (comp (ref P3)
       (value SWD)
-      (footprint CONNECTOR:CONN-PAD-5x1-1.27)
+      (footprint CONNECTOR:CONN-STRIP-5x1-1.27)
       (fields
         (field (name Distributor) -)
         (field (name "Distributor Code") -)
